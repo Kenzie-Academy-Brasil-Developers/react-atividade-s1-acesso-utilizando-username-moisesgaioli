@@ -1,0 +1,12 @@
+.mensage {
+    font-size: 40px;
+}
+
+.btn-loggout {
+    font-size: 20px;
+    padding: 10px 40px;
+    border: none;
+    background-color: #c14141;
+    color: #FFFFFF;
+    font-weight: 900;
+}
